@@ -415,7 +415,7 @@ contract MetaverseVirtuaLife is Context, ERC20 {
     /**
      * @dev this is a metaverse project
      * MVRL is the native token of MetaverseViruaLife project
-     * This token will be available in different block chains like Ethereum, Binance Smart Chain, Polygon
+     * This token will be available in different block chains like Ethereum, Binance Smart Chain, Polygon, Avalanche
      * The liquidity of this token will be provided in different Dex like pancakeswap, uniswap and Dex available in other networks
      * Total Supply of MVRL is 1,111,111,111
      * No new minting of the token will ever happen again
